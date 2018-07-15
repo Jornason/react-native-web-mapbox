@@ -27,11 +27,11 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "react-native echarts",
+  "description": "react-native mapbox",
   "homepage": "https://github.com/Jornason/react-native-web-mapbox#readme",
   "keywords": [
     "react-native",
-    "echarts"
+    "mapbox"
   ],
   "license": "MIT",
   "main": "index.js",
